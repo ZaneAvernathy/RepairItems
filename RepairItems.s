@@ -12,6 +12,7 @@ ASMC_RepairItems:
   @ r0: Pointer to event proc
   @ s1: Character ID (standard event unit input)
   @ s2 (optional): see below
+  @ sB (optional): see below
 
   @ Outputs:
   @ None

@@ -14,6 +14,7 @@ ASMC_RepairItems_CalculateRepairCost:
   @ s2 (optional): see below
   @ s3: base price per item
   @ s4: percent cost multiplier
+  @ sB (optional): see below
 
   @ Outputs:
   @ sC: gold cost to repair all items or -1
